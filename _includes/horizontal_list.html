@@ -1,0 +1,13 @@
+<div style="font-size: 1.5em;margin-bottom: -15px">
+    <a href="/" style="text-decoration:none">sskiles devblog</a>
+</div>
+<ul class="horizontal-list">
+    {% for item in include.collection %}
+    <li>
+        <a href="{{ item.url }}">
+            {{ item.title }}
+        </a>
+        &nbsp;&nbsp;
+    </li>
+    {% endfor %}
+</ul>
