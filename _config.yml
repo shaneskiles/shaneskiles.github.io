@@ -30,10 +30,11 @@ twitter_username: shaneskiles
 github_username:  shaneskiles
 
 # Build settings
-theme: minima
-minima:
-  skin: dark
-plugins:
+#theme: minima
+#minima:
+#  skin: dark
+
+#plugins:
 #  - jekyll-feed
 
 # Exclude from processing.
@@ -45,6 +46,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
+#    - jekyll-feed
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
