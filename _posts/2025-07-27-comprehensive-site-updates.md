@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Shane Skiles
-title: "Comprehensive Site Updates: Theme, Customizations, and AI Context"
+title: "Comprehensive Site Updates"
 tags: [jekyll, update, theme, customization, gemini]
 ---
 
