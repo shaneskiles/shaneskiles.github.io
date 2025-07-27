@@ -39,3 +39,5 @@ A collection of Spotify playlists. This page and its entries were automatically 
   K Pocket Fuzz
 </a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 </div>
+
+<div style="clear: both;"></div>
