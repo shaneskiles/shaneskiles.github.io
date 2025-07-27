@@ -24,11 +24,6 @@ project_entries:
     desc: This will be part of an ongoing series on AI and its implications.
 #    highlight: WIP
 
-  - title: Dream of the 20 Watt Sleepwalker
-    url: sleepwalker
-    desc: An ongoing fiction writing experiment.
-    highlight: WIP
-
   - title: Planning the Epochalypse
     url: planning-the-epochalypse-i
     desc: Looking forward and planning ahead.
@@ -38,6 +33,11 @@ project_entries:
     url: rubber-duck-vibe
     desc: Is AI assisted coding the new rubber duck debugging?
     highlight: NEW
+
+  - title: Dream of the 20 Watt Sleepwalker
+    url: sleepwalker
+    desc: An ongoing fiction writing experiment.
+    highlight: WIP
 
   - title: TikTok Video Archive
     url: tiktok-video-archive
