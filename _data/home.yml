@@ -50,7 +50,6 @@ old_project_entries:
   - title: Dispose Patterns
     url: dispose-patterns
     desc: Personal reference for a simple sync/async ready to implement dispose pattern.
-    highlight: NEW
 
   - title: DotNet Benchmarking
     url: dotnet-benchmarking
