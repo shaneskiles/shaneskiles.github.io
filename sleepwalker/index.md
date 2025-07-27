@@ -22,3 +22,6 @@ tags: [dream of the 20 watt sleepwalker]
 
 [Encountering the Others](6-encountering-the-others)
 : Roberts convenes a meeting of other sleepwalkers, who confirm the Wires' manipulation and form an alliance to resist.
+
+[Nightmare](7-nightmare)
+: Milo is betrayed and abandoned, left to question his reality as he discovers his entire journey was a fabricated narrative to discredit him as a madman.
