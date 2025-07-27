@@ -3,7 +3,7 @@ layout: post
 title: links
 ---
 
-A curated collection of YouTube channels covering a diverse range of topics, from software development and technical conferences to inspiring talks and instrumental music. These channels offer valuable insights, educational content, and entertainment, providing a rich source of information and ideas.
+A curated collection of YouTube channels covering a diverse range of topics, from software development and technical conferences to inspiring talks and instrumental music. These channels offer valuable insights, educational content, and entertainment, providing a rich source of information and ideas. This page and its entries were automatically generated using the channel names.
 
 <a href="https://www.youtube.com/@visualstudio">Visual Studio</a> - The official Microsoft Visual Studio YouTube channel is a key resource for developers, providing tutorials, updates, and tips on using the Visual Studio IDE for .NET and C++ development, covering new features, productivity, and cross-platform capabilities directly from the Visual Studio team.
 
