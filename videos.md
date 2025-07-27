@@ -3,7 +3,7 @@ layout: post
 title: links
 ---
 
-"Summary Test"
+A curated collection of YouTube channels covering a diverse range of topics, from software development and technical conferences to inspiring talks and instrumental music. These channels offer valuable insights, educational content, and entertainment, providing a rich source of information and ideas.
 
 <a href="https://www.youtube.com/@visualstudio">Visual Studio</a> - The official Microsoft Visual Studio YouTube channel is a key resource for developers, providing tutorials, updates, and tips on using the Visual Studio IDE for .NET and C++ development, covering new features, productivity, and cross-platform capabilities directly from the Visual Studio team.
 
@@ -18,3 +18,5 @@ title: links
 <a href="https://www.youtube.com/@HackerVideo">HackerVideo</a> - The @HackerVideo YouTube channel appears to be associated with content related to Vinnie Hacker, focusing on video edits, family insights, streaming content, and social media trends surrounding the personality.
 
 <a href="https://www.youtube.com/@mishapanfilov">Misha Panfilov</a> - The @mishapanfilov YouTube channel features the instrumental music of Estonian multi-instrumentalist Misha Panfilov, blending genres like Krautrock, library music, jazz, and ambient with repetitive, layered melodies to create a nostalgic and "feel good" atmosphere.
+
+<a href="https://www.youtube.com/@PunkeyDoodles8">PunkeyDoodles8</a> - The PunkeyDoodles8 YouTube channel is popular for its compilation and highlight videos of original, humorous cartoon animations, often featuring wizards and supernatural detective agencies in short, engaging formats, and is also active on TikTok and Instagram.
