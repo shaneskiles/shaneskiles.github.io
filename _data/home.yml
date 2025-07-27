@@ -52,6 +52,10 @@ old_project_entries:
     desc: Personal reference for a simple sync/async ready to implement dispose pattern.
     highlight: NEW
 
+  - title: DotNet Benchmarking
+    url: dotnet-benchmarking
+    desc: A guide to using BenchmarkDotNet for performance testing in .NET applications.
+
   - title: AI Context Collapse
     url: ai-context-collapse
     desc: This will be part of an ongoing series on AI and its implications.
