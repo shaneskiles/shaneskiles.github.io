@@ -1,6 +1,6 @@
 ---
 layout: post
-title: links
+title: videos
 ---
 
 A curated collection of YouTube channels covering a diverse range of topics, from software development and technical conferences to inspiring talks and instrumental music. These channels offer valuable insights, educational content, and entertainment, providing a rich source of information and ideas. This page and its entries were automatically generated using the channel names.

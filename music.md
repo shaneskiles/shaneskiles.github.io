@@ -1,6 +1,6 @@
 ---
 layout: post
-title: links
+title: music
 ---
 
 A collection of Spotify playlists. This page and its entries were automatically generated using the playlist URLs. I will add descriptions later.
