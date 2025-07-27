@@ -19,6 +19,11 @@ navbar_entries:
 
 project_entries:
 
+  - title: AI Context Collapse
+    url: ai-context-collapse
+    desc: This will be part of an ongoing series on AI and its implications.
+#    highlight: WIP
+
   - title: Dream of the 20 Watt Sleepwalker
     url: sleepwalker
     desc: An ongoing fiction writing experiment.
@@ -33,11 +38,6 @@ project_entries:
     url: rubber-duck-vibe
     desc: Is AI assisted coding the new rubber duck debugging?
     highlight: NEW
-
-  - title: AI Context Collapse
-    url: ai-context-collapse
-    desc: This will be part of an ongoing series on AI and its implications.
-#    highlight: WIP
 
   - title: TikTok Video Archive
     url: tiktok-video-archive
