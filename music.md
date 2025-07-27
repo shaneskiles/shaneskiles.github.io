@@ -3,7 +3,7 @@ layout: post
 title: music
 ---
 
-A collection of Spotify playlists. This page and its entries were automatically generated using the playlist URLs. I will add descriptions later.
+A curated collection of Spotify playlists, featuring diverse genres such as African world music, heavy psych, stoner doom, mellow lounge, and groovy desert rock. Each entry provides a brief overview of the playlist's style, featured artists, and approximate play time.
 
 <div style="height: 168.75px; display: flex; align-items: center;">
 <a href="https://open.spotify.com/playlist/5IPCmzI4LZ6JkF1UXPNMeY">
