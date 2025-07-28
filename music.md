@@ -62,15 +62,4 @@ Play time ~9 hours.
 </div>
 </div>
 
-<div style="height: 168.75px; display: flex; align-items: center;">
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWWYN0OyXQBvO">
-  <img src="/assets/images/Lo-FiBeats.png" alt="Lo-Fi Beats thumbnail" style="margin-right: 10px; max-height: 150px; width: auto;"/>
-</a>
-<div style="margin-left: 10px;">
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWWYN0OyXQBvO">
-  Lo-Fi Beats
-</a> - Chillhop, lofi, and instrumental hip-hop.
-</div>
-</div>
-
 <div style="clear: both;"></div>
