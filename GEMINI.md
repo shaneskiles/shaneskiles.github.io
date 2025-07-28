@@ -41,18 +41,8 @@ conventions:
   commit_message_style: "imperative, short summary, optional body"
 
 workflows:
-  spotify_playlist_integration:
-    description: "Process to add a Spotify playlist to music.md, including downloading its thumbnail."
-    steps:
-      - name: "Get playlist metadata"
-        action: "Use `curl` to fetch HTML, then `grep` to extract `<title>` and `og:image` URL."
-        output_variables: ["page_title", "og_image_url"]
-      - name: "Derive shortname"
-        action: "Extract the playlist name from `page_title` (e.g., 'K African Mix' from 'K African Mix - playlist by MrKudani | Spotify')."
-        output_variables: ["shortname"]
-      - name: "Download thumbnail"
-        action: "Download the image from `og_image_url` to `assets/images/` using `curl`, renaming it to `shortname` (no spaces) with a `.png` extension."
-        input_variables: ["og_image_url", "shortname"]
-      - name: "Add entry to music.md"
-        action: "Append a new list item to `music.md` with a link to the original playlist URL, embedding the downloaded image, displaying the `shortname`, and including a placeholder description."
-        input_variables: ["original_url", "shortname"]
+  add_spotify_playlist:
+    description: "Adds a Spotify playlist to music.md and downloads its thumbnail."
+    command: "python3 bin/add_playlist.py [SPOTIFY_URL]"
+    dependencies: "Requires Python 3, `requests`, and `beautifulsoup4`. Install with: pip install -r requirements.txt"
+    example: "python3 bin/add_playlist.py 'https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M'"
