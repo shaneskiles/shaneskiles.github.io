@@ -5,13 +5,11 @@
 
   <title>
     {% if page.title %}
-      {{ page.title }}
+      {{ page.title }} - {{ site.title }}
     {% else %}
       {{ site.title }}
     {% endif %}
   </title>
-
-  {% feed_meta %}
 
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
