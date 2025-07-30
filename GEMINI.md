@@ -39,6 +39,7 @@ conventions:
   story_chapter_format: "number-short-description.md"
   image_path: "/assets/images/"
   commit_message_style: "imperative, short summary, optional body"
+  internal_linking: "When linking to other posts on the site, use the post's slug (e.g., /my-post-slug)."
 
 workflows:
   add_spotify_playlist:
