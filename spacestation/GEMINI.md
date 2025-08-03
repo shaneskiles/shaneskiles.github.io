@@ -24,7 +24,7 @@ key_files:
     purpose: "Manages Ruby dependencies for the project."
   - path: "assets/"
     purpose: "Contains all static assets like CSS entry points, images, and favicons."
-  - path: "_spacestation_adventure/"
+  - path: "spacestation_adventure/"
     purpose: "Choose your own adventure game set on a space station. Contains 'before' and 'after' scenarios."
 
 commands:
@@ -49,7 +49,7 @@ workflows:
     example: "python3 bin/add_playlist.py 'https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M'"
 
 choose_your_own_adventure:
-  base_directory: "_spacestation_adventure/"
+  base_directory: "spacestation_adventure/"
   scenarios:
     before:
       start_file: "before/01-start.md"
