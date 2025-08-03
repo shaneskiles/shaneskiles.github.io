@@ -9,6 +9,14 @@ so I should visit them more often.
 Most are technical, though some are simply interesting. 
 There's probably something here to make you think — or at least give you a laugh.
 
+## Recommended Blogs
+
+<a href="https://jeremyreimer.com/">Jeremy Reimer's Blog</a> - Combines science fiction and technology, showcasing how a developer can integrate creative writing with technical discussions.
+
+<a href="https://arthurhmanners.substack.com/">The Sci-Fi Writer's Guide to Reality by Arthur H. Manners</a> - A data scientist and software developer's blog focused on helping others write grounded sci-fi, blending technical expertise with creative writing advice.
+
+<a href="https://cafbit.com/">Software Engineering Fiction by Caffeinated Bitstream</a> - Explores how science fiction illuminates future paths of software technology, discussing software concepts through a sci-fi lens.
+
 ## various
 
 <a href="https://statmodeling.stat.columbia.edu/">Statistical Modeling, 
