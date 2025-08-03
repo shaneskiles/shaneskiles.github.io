@@ -4,11 +4,11 @@ title: "Asking Wilkins About Roberts"
 scene_id: "before-ask-wilkins-roberts"
 choices:
   - text: "Press Wilkins for more details about Roberts."
-    link: "/spacestation/before/07-press-wilkins/"
+    link: "/spacestation/spacestation_adventure/before/07-press-wilkins/"
   - text: "Change the subject and ask about the station's history."
-    link: "/spacestation/before/08-ask-station-history/"
+    link: "/spacestation/spacestation_adventure/before/08-ask-station-history/"
   - text: "Offer to help the young mechanic with his work."
-    link: "/spacestation/before/06-talk-young-mechanic/"
+    link: "/spacestation/spacestation_adventure/before/06-talk-young-mechanic/"
 ---
 
 You lean closer to Wilkins, lowering your voice. "I'm looking for a man named Roberts. They call him a 'sleepwalker'. Do you know anything about him?" Wilkins's shrewd eyes narrow slightly, and he lets out a dry chuckle that sounds like grinding metal. "You don't look like you're here to retire. You're either running from something, or you're looking for something. Given you came here, I'm betting on the latter."
