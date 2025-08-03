@@ -446,4 +446,4 @@ Player character (Milo) arrives at Terrapin Station before the events of 'Dream 
 * [39-analog-power-sources](/spacestation/before/39-analog-power-sources)
 * [40-reliable-light-sources](/spacestation/before/40-reliable-light-sources)
 * [41-chemical-glow-sticks](/spacestation/before/41-chemical-glow-sticks)
-* [42-old-fashioned-lanterns](/spacestation/before/42-old-fashioned-lanterns)
+* [42-old-fashioned-lanterns](/spacestation/spacestation_adventure/before/42-old-fashioned-lanterns)
