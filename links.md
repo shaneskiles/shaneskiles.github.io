@@ -9,15 +9,13 @@ so I should visit them more often.
 Most are technical, though some are simply interesting. 
 There's probably something here to make you think — or at least give you a laugh.
 
-## Recommended Blogs
+## various
 
 <a href="https://jeremyreimer.com/">Jeremy Reimer's Blog</a> - Combines science fiction and technology, showcasing how a developer can integrate creative writing with technical discussions.
 
 <a href="https://arthurhmanners.substack.com/">The Sci-Fi Writer's Guide to Reality by Arthur H. Manners</a> - A data scientist and software developer's blog focused on helping others write grounded sci-fi, blending technical expertise with creative writing advice.
 
 <a href="https://cafbit.com/">Software Engineering Fiction by Caffeinated Bitstream</a> - Explores how science fiction illuminates future paths of software technology, discussing software concepts through a sci-fi lens.
-
-## various
 
 <a href="https://statmodeling.stat.columbia.edu/">Statistical Modeling, 
 Causal Inference, and Social Science</a> - An interesting mix of authors covering 
@@ -44,6 +42,20 @@ and political impacts.
 of artificial and natural intelligence. 
 Articles exploring the nature of intelligence, consciousness, and the mind.
 
+<a href="https://thegradient.pub/">The Gradient</a> - An online magazine that offers in-depth coverage of the latest research in AI and machine learning.
+
+<a href="https://gwern.net/">Gwern.net</a> - A unique and extensive collection of essays on a wide variety of topics, including AI, statistics, and psychology.
+
+<a href="https://publicdomainreview.org/">Public Domain Review</a> - Dedicated 
+to the exploration of the history of art, literature, and ideas – focusing on 
+works now fallen into the public domain.
+Material that everyone is free to enjoy, share, and build upon without restrictions.
+
+<a href="https://fediverse.party/">Fediverse Party</a> - a decentralized network 
+of social platforms to communicate and share content. Microblogging, photo sharing,
+video sharing, and more.
+
+
 ## more misc
 
 <a href="https://vscode.dev/">VS Code Workspace</a> - A browser-based version 
@@ -65,15 +77,6 @@ assembly to Zig to play around with.
 <a href="https://excalidraw.com/">Excalidraw</a> - A whiteboard tool for 
 sketching diagrams and whatnot. It has a nice hand-drawn look and feel - 
 great for brainstorming.
-
-<a href="https://publicdomainreview.org/">Public Domain Review</a> - Dedicated 
-to the exploration of the history of art, literature, and ideas – focusing on 
-works now fallen into the public domain.
-Material that everyone is free to enjoy, share, and build upon without restrictions.
-
-<a href="https://fediverse.party/">Fediverse Party</a> - a decentralized network 
-of social platforms to communicate and share content. Microblogging, photo sharing,
-video sharing, and more.
 
 <a href="https://lmarena.ai/">Chatbot Arena</a> - A research platform to compare and 
 test different chatbots. Compare the performance of various 
