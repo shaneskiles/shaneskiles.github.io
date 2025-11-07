@@ -57,3 +57,4 @@ sass:
   style: :compressed
 
 plugins:
+  - jekyll-feed
