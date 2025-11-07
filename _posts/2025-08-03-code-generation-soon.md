@@ -2,32 +2,6 @@
 layout: post
 author: Shane Skiles
 title: Code Generation Soon
-tags: [c#, code generation, iincrementalgenerator]
----
-
-Here's a fun little idea for a code generator. I've had this floating around 
-in my head for a while. This would be a generator that reads SQL Server stored procedure 
-parameter information and return information and generates C# classes for it.
-
-This is the gist of it:
-[ClassOMatic](https://gist.github.com/sskiles/ec7df45b80b4af28ce8c60da0736418b)
-
-I know, it needs a better name and a little more polish, but it should work. 
-I just can't get it working with `IIncrementalGenerator` and
-`netstandard2.0`. Anyway...
-It reads the stored procedure information from the database to get the parameters,
-executes the stored procedure with null parameters to pull back the schema, 
-then generates a result class, criteria class, and a repository class for it.
-
-The repository class will return a populated `SqlCommand` based on the criteria object.
-You populate the connection, execute the command and pass the `SqlDataReader` back
-and get a populated result set. 
-
-Here is an example workflow for stored procedure `GetPerson`:
----
-layout: post
-author: Shane Skiles
-title: Code Generation Soon
 tags: [c#, code generation, IIncrementalGenerator]
 ---
 
@@ -53,16 +27,17 @@ Here is an example workflow for the `GetPerson` stored procedure:
 ```csharp
 // 1. Populate Criteria
 GetPersonCriteria criteria = dboRepository.GetPersonCriteria()
-				{
-					Id = 1001,
-					City = "New York",
-					...
-				}
+{
+	Id = 1001,
+	City = "New York",
+	...
+}
 
 // 2. Get Command
 SqlCommand cmd = GetPersonRepository.CreateCommand(criteria)
 
-// 3. Populate and Execute Command
+// 3. Populate Database Connection and Execute Command
+	// You maintain complete control here.
 
 // 4. 
 Enumerable<GetPerson> results = GetPersonRepository.ReadAsync(sdr, cancellationToken);
