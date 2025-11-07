@@ -2,7 +2,8 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <title>
     {% if page.title %}
       {{ page.title }}
@@ -24,9 +25,6 @@
   <!-- Favicon -->
 
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
-  {% if site.theme_config.appearance_toggle %}
-    {% include toggle_theme_js.html %}
-  {% endif %}
 
   {%- include custom_head.html -%}
 </head>

@@ -19,13 +19,13 @@ ul.horizontal-list {
 
 .card {
   padding: 1em;
-  border: 1px var(--text) solid;
   width: 11em;
   height: auto;
   text-align: center;
   font-size: 1em;
   align-items: center;
-  background-color: var(--bg-secondary);
+  box-shadow: 5px 5px 15px 5px #1b1b3a;
+  background-color: #3b3434;//var(--bg-secondary);
   margin-bottom: 0.8em;
   border-radius: 0.5em;
 

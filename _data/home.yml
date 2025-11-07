@@ -1,6 +1,6 @@
 navbar_entries:
   - title: home
-    url: https://shaneskiles.github.io/
+    url: /
 
   - title: blog
     url: /blog
@@ -33,17 +33,28 @@ project_entries:
     url: rubber-duck-vibe
     desc: Is AI assisted coding the new rubber duck debugging?
     highlight: NEW
+    
+  - title: TikTok Video Archive
+    url: tiktok-video-archive
+    desc: A PowerShell script to download your TikTok videos and save locally.
+
+
+
+misc_entries:
 
   - title: Dream of the 20 Watt Sleepwalker
     url: sleepwalker
     desc: An ongoing fiction writing experiment.
     highlight: WIP
 
-  - title: TikTok Video Archive
-    url: tiktok-video-archive
-    desc: A PowerShell script to download your TikTok videos and save locally.
+#  - title: I'm not sure if I want to add anything here
+#    url: false
 
+#  - title: It's just a list of things
+#    url: false
 
+#  - title: It could be useful
+#    url: false
 
 
 old_project_entries:
@@ -75,16 +86,6 @@ footer_entries:
   - title: github
     url: https://github.com/shaneskiles
 
-
-#misc_entries:
-#  - title: I'm not sure if I want to add anything here
-#    url: false
-
-#  - title: It's just a list of things
-#    url: false
-
-#  - title: It could be useful
-#    url: false
 
 
 
