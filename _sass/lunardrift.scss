@@ -6,6 +6,7 @@
 
 
 html {
+    color-scheme: light dark;
     height: 100%;
     width: 100vw;
     overflow-x: hidden;
@@ -43,6 +44,8 @@ li { margin: 0.4em 0; }
 
 .pw {
   max-width: 56.25rem;
+  width: 100%;
+  box-sizing: border-box;
   margin: 0 auto;
   padding: 2rem;
 }
