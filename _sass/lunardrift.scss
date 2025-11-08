@@ -140,6 +140,7 @@ a {
 
 a:hover {
   color: var(--links-hover);
+  text-decoration: underline;
 }
 *:target { background-color: var(--bg-secondary); }
 
@@ -193,6 +194,11 @@ mark {
 }
 .post-list-item a {
   text-decoration: none;
+  transition: color 0.3s ease;
+}
+.post-list-item a:hover {
+  color: var(--links-hover);
+  text-decoration: underline;
 }
 .text-bold {
   font-weight: bold;
