@@ -95,10 +95,10 @@ img {
       --links-hover: hsl(216, 100%, 60%);
       --highlight: hsl(215, 26%, 54%);
       --bg: hsl(215, 16%, 23%);
-      --bg-secondary: hsl(215, 37%, 24%);
+      --bg-secondary: hsl(215, 30%, 30%);
       --text: hsl(215, 14%, 70%);
-      --text-secondary: hsl(215, 19%, 73%);
-      --code-text: hsl(215, 100%, 78%);
+      --text-secondary: hsl(215, 20%, 75%);
+      --code-text: hsl(215, 100%, 95%);
       --share-text: hsl(0, 0%, 77%);
   };
 }
@@ -211,7 +211,7 @@ p code, li code {
   background-color: var(--bg-secondary);
   padding: 0.2rem;
   color: var(--code-text);
-  font-weight: bold;
+  //font-weight: bold;
 }
 .post-title {
   // margin-bottom:-1.5rem;
