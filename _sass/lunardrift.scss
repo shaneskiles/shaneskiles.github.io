@@ -81,6 +81,7 @@ img {
       --text: #374151;
       --text-secondary: #6b7280;
       --links: #6366f1;
+      --links-hover: hsl(239, 100%, 50%);
       --highlight: #FFECB2; // light yellow
       --code-text: #9D174D;
       --share-text: #999;
@@ -91,6 +92,7 @@ img {
   html, body  {
       --headings: hsl(215, 49%, 72%);
       --links: hsl(216, 100%, 78%);
+      --links-hover: hsl(216, 100%, 60%);
       --highlight: hsl(215, 26%, 54%);
       --bg: hsl(215, 16%, 23%);
       --bg-secondary: hsl(215, 37%, 24%);
@@ -133,6 +135,11 @@ blockquote {
 a {
   color: var(--links);
   text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--links-hover);
 }
 *:target { background-color: var(--bg-secondary); }
 

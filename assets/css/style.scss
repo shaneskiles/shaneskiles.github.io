@@ -34,9 +34,11 @@ a {
   transition: all 0.2s ease-in-out;
 }
 
-a:hover {
-  text-decoration: none;
-  background-color: hsla(268, 99%, 76%, 0.1);
+body a:hover {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  background-color: var(--highlight);
+  color: hsl(216, 100%, 85%);
   border-radius: 3px;
 }
 
