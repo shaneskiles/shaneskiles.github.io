@@ -10,11 +10,6 @@ ul.horizontal-list {
     margin-right: 1em;
   }
 
-  li a {
-    text-decoration: none;
-    font-weight: normal
-  }
-
 }
 
 .card {
@@ -24,13 +19,22 @@ ul.horizontal-list {
   text-align: center;
   font-size: 1em;
   align-items: center;
-  box-shadow: 5px 5px 15px 5px #1b1b3a;
-  background-color: #3b3434;//var(--bg-secondary);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(255, 255, 255, 0.05);
+  background: linear-gradient(145deg, var(--bg-secondary), hsl(215, 30%, 20%));
   margin-bottom: 0.8em;
   border-radius: 0.5em;
+  border: 1px solid hsla(215, 15%, 30%, 0.6);
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out, border-color 0.2s ease-in-out;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.8);
+    border-color: var(--links);
+  }
 
   .header {
     color: var(--links);
+    text-decoration: none;
   }
 
   .body {

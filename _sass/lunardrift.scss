@@ -42,9 +42,9 @@ p { margin: 1em 0; }
 li { margin: 0.4em 0; }
 
 .pw {
-  max-width: 720px;
+  max-width: 56.25rem;
   margin: 0 auto;
-  padding: 2em 2em;
+  padding: 2rem;
 }
 
 table, th, td {
@@ -89,15 +89,15 @@ img {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #A7CBE5;
-      --links: #8DBCFF;
-      --highlight: #579986; //41C7C7;
-      --bg: #323945;
-      --bg-secondary: #283051; //#36416D; //#1A1F35; // #5A697A; //
-      --text: #adb5bd;
-      --text-secondary: #9CA3AF;
-      --code-text: #8DBCFF;
-      --share-text: #C4C4C4;
+      --headings: hsl(215, 49%, 72%);
+      --links: hsl(216, 100%, 78%);
+      --highlight: hsl(215, 26%, 54%);
+      --bg: hsl(215, 16%, 23%);
+      --bg-secondary: hsl(215, 37%, 24%);
+      --text: hsl(215, 14%, 70%);
+      --text-secondary: hsl(215, 19%, 73%);
+      --code-text: hsl(215, 100%, 78%);
+      --share-text: hsl(0, 0%, 77%);
   };
 }
 
@@ -132,6 +132,7 @@ blockquote {
 }
 a {
   color: var(--links);
+  text-decoration: none;
 }
 *:target { background-color: var(--bg-secondary); }
 
