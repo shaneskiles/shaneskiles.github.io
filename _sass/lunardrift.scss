@@ -77,6 +77,7 @@ img {
   html, body {
       --bg: #FFF;
       --bg-secondary: #f3f4f6;
+      --bg-subtle-gradient-end: hsl(0, 0%, 98%);
       --headings: #1e293b;
       --text: #374151;
       --text-secondary: #6b7280;
@@ -96,6 +97,7 @@ img {
       --highlight: hsl(215, 26%, 54%);
       --bg: hsl(215, 16%, 23%);
       --bg-secondary: hsl(215, 30%, 30%);
+      --bg-subtle-gradient-end: hsl(215, 10%, 20%);
       --text: hsl(215, 14%, 70%);
       --text-secondary: hsl(215, 20%, 75%);
       --code-text: hsl(215, 100%, 95%);
@@ -116,7 +118,8 @@ html[data-theme="light"] { @include light-appearance; }
 // -------------------------------------------- //
 
 html, body {
-    background-color: var(--bg);
+    background: linear-gradient(135deg, var(--bg), var(--bg-subtle-gradient-end));
+    background-attachment: fixed;
     color: var(--text);
 }
 h1, h2, h3, h4, h5, h6 {
