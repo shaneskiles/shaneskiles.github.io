@@ -203,6 +203,10 @@ mark {
   color: var(--links-hover);
   text-decoration: underline;
 }
+.post-separator {
+  border-top: 1px solid var(--links);
+  border-bottom: none;
+}
 .text-bold {
   font-weight: bold;
 }

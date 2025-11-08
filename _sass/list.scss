@@ -1,9 +1,10 @@
 ul.horizontal-list {
   display: flex;
-  //justify-content: space-between;
+  justify-content: space-between;
   margin-top: 0em;
   margin-left: -40px;
   flex-wrap: wrap;
+  /* gap: 1em; */
 
   li {
     display:inline;
@@ -14,7 +15,10 @@ ul.horizontal-list {
 
 .card {
   padding: 1em;
-  width: 11em;
+  ///width: 10em;
+  width: calc(25% - 3.5em); /* Approximately 4 cards per row with 1em gap */
+  min-width: 10em; /* Prevent cards from becoming too small */
+  /* flex-grow: 1; */
   height: auto;
   text-align: center;
   font-size: 1em;
@@ -34,6 +38,10 @@ ul.horizontal-list {
 
   .header {
     color: var(--links);
+    text-decoration: none;
+  }
+
+  a:hover {
     text-decoration: none;
   }
 
