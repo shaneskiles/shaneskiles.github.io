@@ -4,6 +4,9 @@
 
 @view-transition { navigation: auto; }
 
+:root {
+  color-scheme: dark only;
+}
 
 html {
     color-scheme: light dark;
@@ -13,6 +16,7 @@ html {
 }
 
 body {
+  min-width: 100vw;
   font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
   line-height: 2;
@@ -44,8 +48,6 @@ li { margin: 0.4em 0; }
 
 .pw {
   max-width: 56.25rem;
-  width: 100%;
-  box-sizing: border-box;
   margin: 0 auto;
   padding: 2rem;
 }
