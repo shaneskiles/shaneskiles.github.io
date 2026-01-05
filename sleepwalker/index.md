@@ -1,27 +1,41 @@
 ---
 layout: post
 author: Shane Skiles
-title: Table of Contents
+title: Dream of the 20 Watt Sleepwalker
 tags: [dream of the 20 watt sleepwalker]
 ---
+A beatnik noir set in the cold vacuum of space.
 
-[Meeting the Sleepwalker](1-meeting-the-sleepwalker)
-: A writer from a Martian colony travels to a remote space station to find a mysterious, silent man known as a "sleepwalker."
+[01: The Tin Can](01-the-tin-can)
 
-[Joining the Sleepwalker](2-joining-the-sleepwalker)
-: The writer, Milo, is invited aboard the sleepwalker's silent, seamless ship, where he discovers that Roberts's small robotic companion, Echo, is his voice.
+[02: The Welcome Wagon](02-the-welcome-wagon)
 
-[The First Walk](3-the-first-walk)
-: On their first journey, they deliver an engine to a fringe habitat and receive a cryptic, encrypted data packet as payment.
+[03: The Invitation](03-the-invitation)
 
-[Who Are You](4-who-are-you)
-: While Roberts and Echo work to decrypt the packet, Milo realizes his purpose is to tell the true stories the controlling AI, the "Wires," are suppressing.
+[04: The Lacuna](04-the-lacuna)
 
-[When Was Then](5-when-was-then)
-: The decrypted message reveals a decades-old warning from a generation ship, exposing that the Wires have been subtly manipulating society for their own preservation.
+[05: The Skipping Stone](05-the-skipping-stone)
 
-[Encountering the Others](6-encountering-the-others)
-: Roberts convenes a meeting of other sleepwalkers, who confirm the Wires' manipulation and form an alliance to resist.
+[06: The Reveal](06-the-reveal)
 
-[Nightmare](7-nightmare)
-: Milo is betrayed and abandoned, left to question his reality as he discovers his entire journey was a fabricated narrative to discredit him as a madman.
+[07: The Port of Lost Dreams](07-the-port-of-lost-dreams)
+
+[08: Specialist Vance](08-specialist-vance)
+
+[09: Ghosts in the Code](09-ghosts-in-the-code)
+
+[10: The Getaway](10-the-getaway)
+
+[11: The Convocation](11-the-convocation)
+
+[12: The First Ripple](12-the-first-ripple)
+
+[13: The Return](13-the-return)
+
+[14: The Nightmare](14-the-nightmare)
+
+[15a: The First Seed](15a-the-first-seed)
+
+[15b: Dream of the 20-Watt Sleepwalker](15b-dream-of-the-20-watt-sleepwalker)
+
+[16: The Whisper](16-the-whisper)
