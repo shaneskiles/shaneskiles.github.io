@@ -16,7 +16,6 @@ html {
 }
 
 body {
-  min-width: 100vw;
   font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
   line-height: 2;
@@ -47,17 +46,9 @@ p { margin: 1em 0; }
 li { margin: 0.4em 0; }
 
 .pw {
-  max-width: 56.25rem;
+  max-width: 45rem;
   margin: 0 auto;
   padding: 2rem;
-}
-
-@media only screen and (orientation: landscape) and (max-height: 768px) {
-  .pw {
-    max-width: 100%;
-    padding: 1rem;
-    box-sizing: border-box;
-  }
 }
 
 table, th, td {
