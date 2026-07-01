@@ -31,9 +31,6 @@ and achieve their personal objectives.
 International defence and security news and analysis that provide impartial 
 and independent insight into the latest developments.
 
-<a href="https://polymarket.com/">Polymarket</a> - A decentralized prediction 
-market that allows you to speculate on the outcome of real world events.
-
 <a href="https://www.technologyreview.com/">MIT Technology Review</a> - 
 News and commentary on emerging technologies and their societal, commercial, 
 and political impacts.

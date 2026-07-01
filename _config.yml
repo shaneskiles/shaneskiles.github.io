@@ -1,8 +1,8 @@
-title: shane skiles - github blog
+title: shane skiles - gitblog
 author: Shane Skiles
 url: https://shaneskiles.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  This site is a companion to my primary blog at <a href="https://sskiles.github.io/">sskiles.github.io</a>, but is not an exact mirror.
+  Welcome to the Gitblog. This site is a companion to my primary blog at <a href="https://sskiles.github.io/">sskiles.github.io</a>, but is not an exact mirror.
   <br><br>
   This space serves as my digital notebook and a place to share occasional thoughts.
   You will probably find posts on software development, snippits of code, 
@@ -21,9 +21,6 @@ favicon: "./logo.png" # relative path to site's favicon
 
 twitter:
     username: shaneskiles # twitter username of the site
-
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
