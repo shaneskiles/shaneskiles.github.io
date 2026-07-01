@@ -63,6 +63,8 @@ to showcase the compiling of C#, Visual Basic, and F# code.
 See how code is transformed into IL and JIT Asm, helps understand the 
 compiler's workings and how code is lowered.
 
+<a href="https://lab.razor.fyi/#csharp">Razor Lab</a> - A fancier SharpLab.
+
 <a href="https://dotnetfiddle.net/">.NET Fiddle</a> - Another .NET playground 
 for C#, VB.NET, and F#. Focused more on collaboration and sharing code snippets 
 rather than the compiler's workings.
